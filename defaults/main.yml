@@ -1,0 +1,6 @@
+---
+# sysctl -w
+sysctl_set: yes
+
+# sysctl -p
+sysctl_reload: yes
